@@ -1,2 +1,1 @@
-# Service-QQConnect
-QQ互联接口
+#suanhetao.service.qqconnect
